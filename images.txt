@@ -1,1 +1,2 @@
 ubuntu
+ghcr.dockerproxy.com/hybridgroup/opencv:4.8.1
